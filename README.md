@@ -124,13 +124,3 @@ During development and testing, the following issues were identified and fixed:
    *Cause*: Attempted to commit a file not inside the repo.  
    *Resolution*: Copied files into repo root before staging and committing.
 
------
-
-## **Team**
-- Your Name(s) Here  
-
------
-
-## **References**
-- [Apache Spark Documentation](https://spark.apache.org/docs/latest/)  
-- [PySpark API Reference](https://spark.apache.org/docs/latest/api/python/)  
